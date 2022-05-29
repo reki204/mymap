@@ -1,3 +1,5 @@
+https://reki204.github.io/mymap/
+
 # Geolonia PWAマップ
 
 ## Geolonia PWAマップ について
